@@ -10,7 +10,7 @@ const about = {
   role: 'Ph.D Student',
   description:
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://hyunwookl/github.io/',
+  resume: 'https://hyunwookl.github.io/',
   social: {
     linkedin: 'https://www.linkedin.com/in/hyunwook-lee-2b15ba283',
     github: 'https://github.com/HyunwookL',
